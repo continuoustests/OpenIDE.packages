@@ -1,0 +1,40 @@
+{
+  "packages": [
+    {
+      "id": "C#",
+      "version": "v1.0",
+      "name": "C# language plugin",
+      "description": "C# language plugin",
+      "package": "C#.oipkg"
+    },
+    {
+      "id": "go",
+      "version": "v1.0",
+      "name": "Go language plugin",
+      "description": "Go language plugin",
+      "package": "go.oipkg"
+    },
+    {
+      "id": "js",
+      "version": "v1.0",
+      "name": "Javascript language plugin",
+      "description": "Javascript language plugin",
+      "package": "js.oipkg"
+    },
+    {
+      "id": "php",
+      "version": "v1.0",
+      "name": "Php language plugin",
+      "description": "Php language plugin",
+      "package": "php.oipkg"
+    },
+    {
+      "id": "python",
+      "version": "v1.0",
+      "name": "Python language plugin",
+      "description": "Python language plugin",
+      "package": "python.oipkg"
+    }
+  ],
+  "origin": "/home/ack/src/OpenIDE.packages/openide.source"
+}
