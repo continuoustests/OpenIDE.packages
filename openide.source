@@ -2,6 +2,11 @@
   "packages": [
     {
       "id": "C#",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
       "version": "v1.0",
       "name": "C# language plugin",
       "description": "C# language plugin",
@@ -9,6 +14,9 @@
     },
     {
       "id": "go",
+      "os": [
+        "linux"
+      ],
       "version": "v1.0",
       "name": "Go language plugin",
       "description": "Go language plugin",
@@ -16,6 +24,11 @@
     },
     {
       "id": "js",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
       "version": "v1.0",
       "name": "Javascript language plugin",
       "description": "Javascript language plugin",
@@ -23,6 +36,11 @@
     },
     {
       "id": "php",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
       "version": "v1.0",
       "name": "Php language plugin",
       "description": "Php language plugin",
@@ -30,11 +48,16 @@
     },
     {
       "id": "python",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
       "version": "v1.0",
       "name": "Python language plugin",
       "description": "Python language plugin",
       "package": "python.oipkg"
     }
   ],
-  "origin": "/home/ack/src/OpenIDE.packages/openide.source"
+  "origin": "https://raw.githubusercontent.com/continuoustests/OpenIDE.packages/master/openide.source"
 }
