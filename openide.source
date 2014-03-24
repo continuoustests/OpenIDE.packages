@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "id": "C#",
+      "id": "C-Sharp",
       "os": [
         "linux",
         "windows",
@@ -10,7 +10,7 @@
       "version": "v1.0",
       "name": "C# language plugin",
       "description": "C# language plugin",
-      "package": "C#.oipkg"
+      "package": "C-Sharp.oipkg"
     },
     {
       "id": "go",
