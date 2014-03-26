@@ -1,6 +1,18 @@
 {
   "packages": [
     {
+      "id": "C-Sharp-AT",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "C# language plugin",
+      "description": "C# language plugin bundling AutoTest.Net and ContinuousTests",
+      "package": "C-Sharp-AT.oipkg"
+    },
+    {
       "id": "C-Sharp",
       "os": [
         "linux",
