@@ -7,7 +7,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.0",
+      "version": "v1.1",
       "name": "C# language plugin",
       "description": "C# language plugin bundling AutoTest.Net and ContinuousTests",
       "package": "C-Sharp-AT.oipkg"
@@ -19,7 +19,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.0",
+      "version": "v1.1",
       "name": "C# language plugin",
       "description": "C# language plugin",
       "package": "C-Sharp.oipkg"
