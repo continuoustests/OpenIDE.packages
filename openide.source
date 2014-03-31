@@ -25,6 +25,17 @@
       "package": "C-Sharp.oipkg"
     },
     {
+      "id": "find",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "File search",
+      "description": "Code search matching on file contents, path and type using the native find command",
+      "package": "find.oipkg"
+    },
+    {
       "id": "go",
       "os": [
         "linux"
@@ -33,6 +44,30 @@
       "name": "Go language plugin",
       "description": "Go language plugin",
       "package": "go.oipkg"
+    },
+    {
+      "id": "goto",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Goto file",
+      "description": "Opens a file in the text editor on a give line / column",
+      "package": "goto.oipkg"
+    },
+    {
+      "id": "init-sublime",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Initialize sublime",
+      "description": "Custom init script that inits, creates a Sublime project and an optional profile",
+      "package": "init-sublime.oipkg"
     },
     {
       "id": "js",
@@ -69,6 +104,30 @@
       "name": "Python language plugin",
       "description": "Python language plugin",
       "package": "python.oipkg"
+    },
+    {
+      "id": "sources",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Package Source Manager",
+      "description": "Creates and maintains .sources files for hosted package sources",
+      "package": "sources.oipkg"
+    },
+    {
+      "id": "tryout",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Language tryout",
+      "description": "Creating a temporary space for trying out stuff.",
+      "package": "tryout.oipkg"
     }
   ],
   "origin": "https://raw.githubusercontent.com/continuoustests/OpenIDE.packages/master/openide.source"
