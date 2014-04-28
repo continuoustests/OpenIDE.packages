@@ -3,7 +3,9 @@
     {
       "id": "C#-add-using",
       "os": [
-        "linux"
+        "linux",
+        "windows",
+        "osx"
       ],
       "version": "v1.0",
       "name": "C#-add-using",
