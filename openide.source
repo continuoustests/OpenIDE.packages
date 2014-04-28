@@ -7,7 +7,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.1",
+      "version": "v1.2",
       "name": "C# language plugin",
       "description": "C# language plugin bundling AutoTest.Net and ContinuousTests",
       "package": "C-Sharp-AT.oipkg"
@@ -19,7 +19,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.1",
+      "version": "v1.2",
       "name": "C# language plugin",
       "description": "C# language plugin",
       "package": "C-Sharp.oipkg"
@@ -40,7 +40,7 @@
       "os": [
         "linux"
       ],
-      "version": "v1.0",
+      "version": "v1.1",
       "name": "Go language plugin",
       "description": "Go language plugin",
       "package": "go.oipkg"
@@ -88,7 +88,7 @@
         "osx",
         "windows"
       ],
-      "version": "v1.0",
+      "version": "v1.1",
       "name": "Php language plugin",
       "description": "Php language plugin",
       "package": "php.oipkg"
