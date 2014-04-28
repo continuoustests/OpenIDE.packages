@@ -25,6 +25,18 @@
       "package": "C-Sharp.oipkg"
     },
     {
+      "id": "contextual-tampering",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "contextual-tampering",
+      "description": "A generic script for handling user selected actions for navigation and refactoring",
+      "package": "contextual-tampering.oipkg"
+    },
+    {
       "id": "find",
       "os": [
         "linux",
