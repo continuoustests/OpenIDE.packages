@@ -37,6 +37,17 @@
       "package": "C-Sharp.oipkg"
     },
     {
+      "id": "alive",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "OpenIDE alive check",
+      "description": "Checks if any processes related to OpenIDE is running.",
+      "package": "alive.oipkg"
+    },
+    {
       "id": "contextual-tampering",
       "os": [
         "linux",
