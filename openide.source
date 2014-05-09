@@ -7,7 +7,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.2",
+      "version": "v1.4",
       "name": "C# language plugin",
       "description": "C# language plugin bundling AutoTest.Net and ContinuousTests",
       "package": "C-Sharp-AT.oipkg"
@@ -31,7 +31,7 @@
         "windows",
         "osx"
       ],
-      "version": "v1.2",
+      "version": "v1.4",
       "name": "C# language plugin",
       "description": "C# language plugin",
       "package": "C-Sharp.oipkg"
@@ -48,6 +48,42 @@
       "package": "alive.oipkg"
     },
     {
+      "id": "c-sharp-add-using",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "C# add using",
+      "description": "Handles adding usings for C#",
+      "package": "c-sharp-add-using.oipkg"
+    },
+    {
+      "id": "c-sharp-create-tested",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "C# create tested",
+      "description": "Creates C# libraries and classes with corresponding test library/fixture",
+      "package": "c-sharp-create-tested.oipkg"
+    },
+    {
+      "id": "c-sharp-editor-create",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "Commands from editor C#",
+      "description": "Exposes C# create, new and reference commands from editor",
+      "package": "c-sharp-editor-create.oipkg"
+    },
+    {
       "id": "contextual-tampering",
       "os": [
         "linux",
@@ -58,6 +94,16 @@
       "name": "contextual-tampering",
       "description": "A generic script for handling user selected actions for navigation and refactoring",
       "package": "contextual-tampering.oipkg"
+    },
+    {
+      "id": "edit-oi-scripts",
+      "os": [
+        "linux"
+      ],
+      "version": "v1.0",
+      "name": "edit-oi-scripts",
+      "description": "Trigger script editing from wihtin the editor",
+      "package": "edit-oi-scripts.oipkg"
     },
     {
       "id": "find",
@@ -115,6 +161,17 @@
       "name": "Javascript language plugin",
       "description": "Javascript language plugin",
       "package": "js.oipkg"
+    },
+    {
+      "id": "locate-files",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Locate files",
+      "description": "Finds files by name",
+      "package": "locate-files.oipkg"
     },
     {
       "id": "php",
