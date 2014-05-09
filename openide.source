@@ -13,18 +13,6 @@
       "package": "C-Sharp-AT.oipkg"
     },
     {
-      "id": "C-Sharp-add-using",
-      "os": [
-        "linux",
-        "windows",
-        "osx"
-      ],
-      "version": "v1.0",
-      "name": "C#-add-using",
-      "description": "Adds using statements from type under cursor",
-      "package": "C-Sharp-add-using.oipkg"
-    },
-    {
       "id": "C-Sharp",
       "os": [
         "linux",
