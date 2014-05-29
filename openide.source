@@ -25,6 +25,18 @@
       "package": "C-Sharp.oipkg"
     },
     {
+      "id": "ack-www",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "Ack www",
+      "description": "Scripts for various www stuff",
+      "package": "ack-www.oipkg"
+    },
+    {
       "id": "alive",
       "os": [
         "linux",
@@ -67,8 +79,8 @@
         "windows"
       ],
       "version": "v1.0",
-      "name": "Commands from editor C#",
-      "description": "Exposes C# create, new and reference commands from editor",
+      "name": "C# create from editor",
+      "description": "Create C# projects, files and references from editor",
       "package": "c-sharp-editor-create.oipkg"
     },
     {
@@ -92,6 +104,18 @@
       "name": "edit-oi-scripts",
       "description": "Trigger script editing from wihtin the editor",
       "package": "edit-oi-scripts.oipkg"
+    },
+    {
+      "id": "extends-c-sharp-new",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "C# new extensions",
+      "description": "A script to easily extend the C# new command in all profiles",
+      "package": "extends-c-sharp-new.oipkg"
     },
     {
       "id": "find",
@@ -162,6 +186,28 @@
       "package": "locate-files.oipkg"
     },
     {
+      "id": "php-go-to-definition",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "php-go-to-definition",
+      "description": "Adds go to definition support for php",
+      "package": "php-go-to-definition.oipkg"
+    },
+    {
+      "id": "php-use-type",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Php use type",
+      "description": "Adds contextual tamper option to add use statement for type",
+      "package": "php-use-type.oipkg"
+    },
+    {
       "id": "php",
       "os": [
         "linux",
@@ -208,6 +254,18 @@
       "name": "Language tryout",
       "description": "Creating a temporary space for trying out stuff.",
       "package": "tryout.oipkg"
+    },
+    {
+      "id": "typesearch-extension",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "typesearch-extension",
+      "description": "Extends with reactive script extended type search",
+      "package": "typesearch-extension.oipkg"
     }
   ],
   "origin": "https://raw.githubusercontent.com/continuoustests/OpenIDE.packages/master/openide.source"
