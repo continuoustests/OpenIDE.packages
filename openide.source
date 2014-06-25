@@ -25,6 +25,30 @@
       "package": "C-Sharp.oipkg"
     },
     {
+      "id": "F-Sharp-AT",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v0.1",
+      "name": "F# language plugin",
+      "description": "F# language plugin bundling AutoTest.Net and ContinuousTests",
+      "package": "F-Sharp-AT.oipkg"
+    },
+    {
+      "id": "F-Sharp",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v0.1",
+      "name": "F# language plugin",
+      "description": "F# language plugin",
+      "package": "F-Sharp.oipkg"
+    },
+    {
       "id": "ack-www",
       "os": [
         "linux",
