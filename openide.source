@@ -210,6 +210,18 @@
       "package": "locate-files.oipkg"
     },
     {
+      "id": "octopress",
+      "os": [
+        "linux",
+        "osx",
+        "windows"
+      ],
+      "version": "v1.0",
+      "name": "Octopress plugin",
+      "description": "Octopress plugin",
+      "package": "octopress.oipkg"
+    },
+    {
       "id": "php-go-to-definition",
       "os": [
         "linux",
