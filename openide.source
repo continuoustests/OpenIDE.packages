@@ -108,6 +108,18 @@
       "package": "c-sharp-editor-create.oipkg"
     },
     {
+      "id": "code-templates",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Ack Code Templates",
+      "description": "Simple small code snippets to insert here and there",
+      "package": "code-templates.oipkg"
+    },
+    {
       "id": "contextual-tampering",
       "os": [
         "linux",
@@ -233,6 +245,18 @@
       "package": "php-go-to-definition.oipkg"
     },
     {
+      "id": "php-new",
+      "os": [
+        "linux",
+        "windows",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "php-new",
+      "description": "Script for generating php files",
+      "package": "php-new.oipkg"
+    },
+    {
       "id": "php-use-type",
       "os": [
         "linux",
@@ -268,6 +292,16 @@
       "package": "python.oipkg"
     },
     {
+      "id": "restart-rscript",
+      "os": [
+        "linux"
+      ],
+      "version": "v1.0",
+      "name": "Restart reactive script",
+      "description": "Lets you bind a shortcut key to restart the reactive script closest to the file you are editing.",
+      "package": "restart-rscript.oipkg"
+    },
+    {
       "id": "sources",
       "os": [
         "linux",
@@ -278,6 +312,17 @@
       "name": "Package Source Manager",
       "description": "Creates and maintains .sources files for hosted package sources",
       "package": "sources.oipkg"
+    },
+    {
+      "id": "tmux-editor-handler",
+      "os": [
+        "linux",
+        "osx"
+      ],
+      "version": "v1.0",
+      "name": "Tmux Editor Emulator",
+      "description": "Uses tmux windows to emulate type search, user select, user input and file search",
+      "package": "tmux-editor-handler.oipkg"
     },
     {
       "id": "tryout",
